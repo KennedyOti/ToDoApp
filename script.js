@@ -53,6 +53,10 @@ let formValidation = () => {
     acceptData();
     console.log("success");
   }
+  function newFeature() {
+    console.log("I am on a new brach");
+  }
+  newFeature();
 
   // function to create a post
 };
